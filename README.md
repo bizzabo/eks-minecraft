@@ -1,4 +1,4 @@
-# "Unite through Creativity: Building Dreams in Minecraft"
+# Unite through Creativity: Building Dreams in Minecraft
 ![Minecraft Logo](https://logos-world.net/wp-content/uploads/2020/05/Minecraft-Logo.png)
 ---
 ## Motivation
@@ -15,17 +15,21 @@ We believe that this platform will not only allow them to bond with their classm
 for their creativity during these trying times.
 
 ### Key Objectives
-1. **Foster Unity:** Our project aims to bring children from diverse backgrounds together. 
+1. **Completely Accessible:** Our project is committed to providing free Minecraft servers 
+to every group of children who participate. We believe that access to these servers should not be a barrier, 
+ensuring that every child can join the community and explore the creative possibilities Minecraft offers. 
+
+2. **Foster Unity:** Our project aims to bring children from diverse backgrounds together. 
 By playing Minecraft as a community, they can build connections, understanding, and friendships that transcend borders.
 
-2. **Encourage Creativity:** Minecraft is a canvas for imagination. Through this project, we hope to inspire the 
+3. **Encourage Creativity:** Minecraft is a canvas for imagination. Through this project, we hope to inspire the 
 children of Israel to express their creativity, build incredible structures, and embark on exciting adventures.
 
-3. **Support Education:** We believe that Minecraft can be a powerful educational tool. 
+4. **Support Education:** We believe that Minecraft can be a powerful educational tool. 
 Children can learn important skills such as teamwork, problem-solving, and even gain insights into 
 architecture, design, and resource management.
 
-4. **Promote Resilience:** By creating, overcoming challenges, and working as a team, children can develop resilience, 
+5. **Promote Resilience:** By creating, overcoming challenges, and working as a team, children can develop resilience, 
 which is essential in navigating these hard times.
 
 ### Project Features
