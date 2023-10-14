@@ -1,5 +1,5 @@
 # Unite through Creativity: Building Dreams in Minecraft
-![Minecraft Logo](https://logos-world.net/wp-content/uploads/2020/05/Minecraft-Logo.png)
+![Minecraft Logo](assets/logo.png)
 * [Motivation](#motivation)
     + [Introduction](#introduction)
     + [Project Overview](#project-overview)
