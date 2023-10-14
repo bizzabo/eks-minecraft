@@ -112,4 +112,4 @@ is smooth and enjoyable for all users.
 6. **Spread the Word:** Share our project with your network. The more people who know about it, 
 the greater the impact we can make on the lives of Israeli children.
 
-> For more information you can contact [Daniel Doppelt](mailto:daniel.doppelt@bizzabo) 
+> For more information you can contact [Daniel Doppelt](mailto:daniel.doppelt@bizzabo.com) 
