@@ -1,5 +1,15 @@
 # Unite through Creativity: Building Dreams in Minecraft
 ![Minecraft Logo](https://logos-world.net/wp-content/uploads/2020/05/Minecraft-Logo.png)
+* [Motivation](#motivation)
+    + [Introduction](#introduction)
+    + [Project Overview](#project-overview)
+    + [Key Objectives](#key-objectives)
+    + [Project Features](#project-features)
+    + [How You Can Support](#how-you-can-support)
+    + [Conclusion](#conclusion)
+* [Technology](#technology)
+    + [Installation](#installation)
++ [Contributing](#contributing)
 ---
 ## Motivation
 ### Introduction
@@ -81,3 +91,25 @@ cd eks-minecraft
 terraform plan -out plan
 terraform apply "plan" 
 ```
+
+### Contributing
+Thank you for considering contributing to our project! Your involvement can make a significant impact on the children 
+of Israel during these challenging times. Here's how you can contribute:
+
+1. **Code Contributions:** Whether you're an experienced developer or just starting out, 
+you can help us enhance the project's functionality, fix bugs, or create new features. 
+Check out our list of open issues to find tasks that match your skills and interests.
+2. **Documentation:** Clear and concise documentation is crucial to help new participants get involved and understand 
+the project. You can contribute by improving our documentation, adding guides, or clarifying existing instructions. 
+Documentation translation into Arabic, Russian and Hebrew are a critical part of this initiative enabling us to increase
+our reach.
+3. **Design and Art:** Minecraft is all about creativity, and we're open to artistic contributions. 
+If you're a graphic designer or artist, consider creating custom in-game assets or helping design promotional materials.
+4. **Community Support:** Engage with our community! Answer questions, offer guidance, and create a positive and 
+inclusive atmosphere for all participants. Your help in mentoring and supporting new members is invaluable.
+5. **Testing:** By testing the project and reporting issues, you can help ensure that the experience 
+is smooth and enjoyable for all users.
+6. **Spread the Word:** Share our project with your network. The more people who know about it, 
+7. the greater the impact we can make on the lives of Israeli children.
+
+> For more information you can contact [Daniel Doppelt](mailto:daniel.doppelt@bizzabo) 
