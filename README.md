@@ -9,7 +9,7 @@
     + [Conclusion](#conclusion)
 * [Technology](#technology)
     + [Installation](#installation)
-+ [Contributing](#contributing)
+* [Contributing](#contributing)
 ---
 ## Motivation
 ### Introduction
@@ -110,6 +110,6 @@ inclusive atmosphere for all participants. Your help in mentoring and supporting
 5. **Testing:** By testing the project and reporting issues, you can help ensure that the experience 
 is smooth and enjoyable for all users.
 6. **Spread the Word:** Share our project with your network. The more people who know about it, 
-7. the greater the impact we can make on the lives of Israeli children.
+the greater the impact we can make on the lives of Israeli children.
 
 > For more information you can contact [Daniel Doppelt](mailto:daniel.doppelt@bizzabo) 
